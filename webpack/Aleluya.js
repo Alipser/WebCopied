@@ -1,4 +1,5 @@
 
+console.log("Aleluya hi")
 const button = document.querySelector('#page-home > div.contain-page > header > div.relative.bg-white.cc-header.border-bottom.border-gray-light > nav > div.margin-right-small.large-up-margin-right-medium > button.hidden.weight-semi.large-up-block.text-1.color-charcoal.padding-right-small')
 
 let html = document.querySelector('html')
