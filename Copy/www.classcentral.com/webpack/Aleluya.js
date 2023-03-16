@@ -11,7 +11,7 @@ let div = document.querySelector('#page-home > div.contain-page > header > div.w
 let appear=document.querySelector('#page-home > div.contain-page > header > div.relative.bg-white.cc-header.border-bottom.border-gray-light > nav > div.margin-right-small.large-up-margin-right-medium > nav > div.main-nav-dropdown__index > section:nth-child(2)')
 otra.addEventListener("click", reveal)
 boton.addEventListener("click", reveal)
-
+cerrar.addEventListener("click", reveal)
 function reveal() {
     html.classList.toggle('nav-open')
     nav.classList.toggle('is-open')
