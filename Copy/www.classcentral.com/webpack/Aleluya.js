@@ -2,6 +2,8 @@ console.log("Aleluya DEEp")
 
 const otra = document.querySelector('#page-home > div.contain-page > header > div.relative.bg-white.cc-header.border-bottom.border-gray-light > nav > div.margin-right-small.large-up-margin-right-medium > button.hidden.weight-semi.large-up-block.text-1.color-charcoal.padding-right-small')
 const boton = document.querySelector('#page-home > div.contain-page > header > div.relative.bg-white.cc-header.border-bottom.border-gray-light > nav > div.margin-right-small.large-up-margin-right-medium > button.block.large-up-hidden > i')
+const cerrar = document.querySelector('#page-home > div.contain-page > header > div.relative.bg-white.cc-header.border-bottom.border-gray-light > nav > div.margin-right-small.large-up-margin-right-medium > nav > div.main-nav-dropdown__index > div > button > i')
+
 let html = document.querySelector('html')
 
 let nav = document.querySelector('#page-home > div.contain-page > header > div.relative.bg-white.cc-header.border-bottom.border-gray-light > nav > div.margin-right-small.large-up-margin-right-medium > nav')
